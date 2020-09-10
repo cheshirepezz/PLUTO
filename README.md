@@ -1,7 +1,7 @@
 PLUTO v4.3
 ====================
 
-![Poster](https://github.com/cheshirepezz/PLUTO/Poster.png) 
+![Poster](https://github.com/cheshirepezz/PLUTO/blob/master/Poster.png "Poster")
 
 Copyright (C) 2002-2018 Andrea Mignone. See [CONTRIBUTORS](./CONTRIBUTORS).
 
