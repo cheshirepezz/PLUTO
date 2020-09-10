@@ -1,4 +1,4 @@
-PLUTO v4.3
+PLUTO
 ====================
 
 ![Poster](https://github.com/cheshirepezz/PLUTO/blob/master/Poster.png "Poster")
